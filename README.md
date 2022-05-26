@@ -1,2 +1,2 @@
-# Hi, I’m HOANG THE LONG
+# Hi, I’m LONG
 # This is Pig Game website.

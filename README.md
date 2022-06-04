@@ -1,2 +1,2 @@
 # Hi, I’m LONG
-# This is Pig Game webgame.
+This is Pig Game webgame.
